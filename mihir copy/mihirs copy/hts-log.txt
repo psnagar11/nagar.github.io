@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Apr 2021 12:34:42 at https://mihirthakkar.ml/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mihirthakkar.ml/# -O1 "E:\mihir copy\mihirs copy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/img/logo/light.png (from https://mihirthakkar.ml/)
+12:35:21	Warning: 	Link https://mihirthakkar.ml/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/img/2.jpg (from https://mihirthakkar.ml/)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/www.mihirthakkar.ml (from https://mihirthakkar.ml/)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/font/xcon.eot?4965248 (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/font/xcon.woff2?4965248 (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/font/xcon.woff?4965248 (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/font/xcon.ttf?4965248 (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/font/xcon.svg?4965248 (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/ytp-regular.eot (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/ytp-regular.ttf (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/images/raster.png (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/images/raster@2x.png (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/images/raster_dot.png (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/images/raster_dot@2x.png (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/mCSB_buttons.png (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml/css/overlays/02.png (from https://mihirthakkar.ml/css/plugins.css)
+12:35:21	Error: 	"Not Found" (404) at link https://mihirthakkar.ml//img/slider/6.jpg (from https://mihirthakkar.ml/css/stylem.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 36 links scanned, 18 files written (750041 bytes overall) [568279 bytes received at 14571 bytes/sec], 722733 bytes transferred using HTTP compression in 27 files, ratio 25%, 9.0 requests per connection
+(17 errors, 1 warnings, 0 messages)

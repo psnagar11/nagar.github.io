@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bootstrapcdn.com	TRUE	/	FALSE	1999999999	__cfduid	dec9d14940de91ffa3cda8b49f7aae5951619075092
+stackpath.bootstrapcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.000webhost.com	TRUE	/	FALSE	1999999999	__cfduid	d3be438f79accf9877f04d472fb11f99a1619075109
+cdn.000webhost.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.mihirthakkar.ml	TRUE	/	FALSE	1999999999	__cfduid	d646acb338f96d7f817258bee7eb6b7781619075125
+mihirthakkar.ml	TRUE	/	FALSE	1999999999	SameSite	Lax
+
